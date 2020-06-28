@@ -12,6 +12,6 @@ This script converts Single Cell h5 files to Market Matrix format. This file wor
 
 ### 4. FileManipulations.ipynb
 This script does multiple tasks for file/folder manipulations. 
-\n Function 1: Transfer all files from one folder to the another and also renaming the files.
-\n Function 2: Convert any file from csv to tsv format
-\n Function 3: Convert any file from tsv to csv format
+<br/> Function 1: Transfer all files from one folder to the another and also renaming the files.
+<br/> Function 2: Convert any file from csv to tsv format
+<br/> Function 3: Convert any file from tsv to csv format
