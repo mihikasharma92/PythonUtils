@@ -1,4 +1,4 @@
-# PythonScripts
+# PythonUtils
 Python scripts for specific jobs. These scripts reduce manual tasks and automate processes for in-between analyses. Each script contains step-by-step comments for elaborate information. These scripts are compatible with Pythpn version 3.7 and have been compiled in Jupyter Notebook. 
 
 ### 1. CreateAltAnalyzeFile_SeuratClusterMarkers.ipynb
